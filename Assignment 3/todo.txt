@@ -1,5 +1,0 @@
-1. min entry time wrong
-2. min inter recors tine wrong
-3. remove open button
-4. check avg and total time
-5. output file 

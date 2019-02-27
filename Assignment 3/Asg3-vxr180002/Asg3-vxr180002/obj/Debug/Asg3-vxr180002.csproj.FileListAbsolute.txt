@@ -1,0 +1,10 @@
+C:\Users\VC\Documents\GitHub\CS6326\Assignment 3\Asg3-vxr180002\Asg3-vxr180002\bin\Debug\Asg3-vxr180002.exe.config
+C:\Users\VC\Documents\GitHub\CS6326\Assignment 3\Asg3-vxr180002\Asg3-vxr180002\bin\Debug\Asg3-vxr180002.exe
+C:\Users\VC\Documents\GitHub\CS6326\Assignment 3\Asg3-vxr180002\Asg3-vxr180002\bin\Debug\Asg3-vxr180002.pdb
+C:\Users\VC\Documents\GitHub\CS6326\Assignment 3\Asg3-vxr180002\Asg3-vxr180002\obj\Debug\Asg3-vxr180002.csprojAssemblyReference.cache
+C:\Users\VC\Documents\GitHub\CS6326\Assignment 3\Asg3-vxr180002\Asg3-vxr180002\obj\Debug\Asg3_vxr180002.Form1.resources
+C:\Users\VC\Documents\GitHub\CS6326\Assignment 3\Asg3-vxr180002\Asg3-vxr180002\obj\Debug\Asg3_vxr180002.Properties.Resources.resources
+C:\Users\VC\Documents\GitHub\CS6326\Assignment 3\Asg3-vxr180002\Asg3-vxr180002\obj\Debug\Asg3-vxr180002.csproj.GenerateResource.cache
+C:\Users\VC\Documents\GitHub\CS6326\Assignment 3\Asg3-vxr180002\Asg3-vxr180002\obj\Debug\Asg3-vxr180002.csproj.CoreCompileInputs.cache
+C:\Users\VC\Documents\GitHub\CS6326\Assignment 3\Asg3-vxr180002\Asg3-vxr180002\obj\Debug\Asg3-vxr180002.exe
+C:\Users\VC\Documents\GitHub\CS6326\Assignment 3\Asg3-vxr180002\Asg3-vxr180002\obj\Debug\Asg3-vxr180002.pdb

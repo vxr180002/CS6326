@@ -1,0 +1,10 @@
+1	Aaaaaaaaaa1	Bbbbbbbbbb	F	1234 Msin St.	null	Dallas	TX	75001	M	1112223333	abc@utdallas.edu	YES	2/26/2019	06:23:48	06:24:55	0
+2	Aaaaaaaaaa2	Bbbbbbbbbb	F	1234 Main St.	null	Dallas	TX	75001	M	1112223331	abc@utdallas.edu	YES	2/26/2019	06:25:00	06:25:56	10
+3	Aaaaaaaaaa3	Bbbbbbbbbb	F	1234 Main St.	null	Dallas	TX	75001	M	1112223332	abc@utdallas.edu	YES	2/26/2019	06:26:09	06:26:53	4
+4	Aaaaaaaaaa4	Bbbbbbbbbb	F	1234 Main St.	null	Dallas	TX	75001	M	1112223334	abc@utdallas.edu	YES	2/26/2019	06:27:01	06:27:34	0
+5	Aaaaaaaaaa5	Bbbbbbbbbb	F	1234 Main St.	null	Dalals	TX	75001	M	1112223335	abc@utdallas.edu	YES	2/26/2019	06:27:42	06:28:11	1
+6	Aaaaaaaaaa6	Bbbbbbbbbb	F	1234 Main St.	null	Dallas	TX	75001	M	1112223336	abc@utdallas.edu	YES	2/26/2019	06:28:17	06:28:49	0
+7	Aaaaaaaaaa7	Bbbbbbbbbb	F	1234 Main St.	null	Dalals	TX	75001	M	1112223337	abc@utdallas.edu	YES	2/26/2019	06:28:55	06:29:35	8
+8	Aaaaaaaaaa8	Bbbbbbbbbb	F	1234 Main St.	null	Dallas	TX	75001	M	1112223338	abc@utdallas.edu	YES	2/26/2019	06:29:41	06:30:08	0
+9	Aaaaaaaaaa9	Bbbbbbbbbb	F	1234 Main St.	null	Dallas	TX	75001	M	1112223339	abc@utdallas.edu	YES	2/26/2019	06:30:12	06:30:48	4
+10	Aaaaaaaaaa10	Bbbbbbbbbb	F	1234 Main St.	null	Dalals	TX	75001	M	1112223330	abc@utdallas.edu	YES	2/26/2019	06:30:53	06:31:29	2
